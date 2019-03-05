@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "./built",
+        "allowJs": true,
+        "jsx": "react",
+        "target": "ES6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "baseUrl": "src",
+        "typeRoots": ["node_modules/@types"],
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}

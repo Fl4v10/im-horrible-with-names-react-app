@@ -1,0 +1,223 @@
+{
+    "@version": "2.0",
+    "channel": {
+       "title": "Top News - MIT Technology Review",
+       "link": [
+          "https://www.technologyreview.com/",
+          {
+             "@href": "https://www.technologyreview.com/topnews.rss",
+             "@rel": "self"
+          }
+       ],
+       "pubDate": "Tue, 05 Mar 2019 00:25:04 GMT",
+       "description": [],
+       "language": "en",
+       "image": {
+          "title": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/_/img/stacked-logo-v2--125x62.png",
+          "link": "https://www.technologyreview.com/"
+       },
+       "item": [
+          {
+             "title": "China’s Huawei has big ambitions to weaken the US grip on AI leadership",
+             "description": "In spite of tensions with the US and its allies, Huawei is rapidly building a suite of AI offerings unmatched by any other company on the planet.",
+             "link": "https://www.technologyreview.com/s/612914/chinas-huawei-has-big-ambitions-to-weaken-the-uss-grip-on-ai-leadership/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612914/chinas-huawei-has-big-ambitions-to-weaken-the-uss-grip-on-ai-leadership/"
+             },
+             "pubDate": "Mon, 04 Mar 2019 13:50:00 GMT"
+          },
+          {
+             "title": "A simple blood test to predict premature births could save babies’ lives",
+             "description": "Complications from preterm birth are the leading cause of death worldwide in children under five.",
+             "link": "https://www.technologyreview.com/s/612931/a-simple-blood-test-to-predict-premature-births-could-save-babies-lives/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612931/a-simple-blood-test-to-predict-premature-births-could-save-babies-lives/"
+             },
+             "pubDate": "Wed, 27 Feb 2019 12:00:00 GMT"
+          },
+          {
+             "title": "Bill Gates explains why we should all be optimists",
+             "description": "We sat down to talk about breakthrough technologies, China, \nand reasons to be cheerful with this issue’s guest editor.",
+             "link": "https://www.technologyreview.com/s/612924/bill-gates-explains-why-we-should-all-be-optimists/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612924/bill-gates-explains-why-we-should-all-be-optimists/"
+             },
+             "pubDate": "Wed, 27 Feb 2019 12:00:00 GMT"
+          },
+          {
+             "title": "10 Breakthrough Technologies 2019, curated by Bill Gates",
+             "description": "We asked Gates to choose this year’s list of inventions that will change the world for the better.",
+             "link": "https://www.technologyreview.com/lists/technologies/2019/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/lists/technologies/2019/"
+             },
+             "pubDate": "Wed, 27 Feb 2019 12:00:00 GMT"
+          },
+          {
+             "title": "Why AI is a threat to democracy—and what we can do to stop it",
+             "description": "Futurist and NYU professor Amy Webb on an impending artificial intelligence catastrophe—and why there’s still hope it can be averted.",
+             "link": "https://www.technologyreview.com/s/613010/why-ai-is-a-threat-to-democracyand-what-we-can-do-to-stop-it/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/613010/why-ai-is-a-threat-to-democracyand-what-we-can-do-to-stop-it/"
+             },
+             "pubDate": "Tue, 26 Feb 2019 10:00:00 GMT"
+          },
+          {
+             "title": "China’s CRISPR twins might have had their brains inadvertently enhanced",
+             "description": "New research suggests that a controversial gene-editing experiment to make children resistant to HIV may also have enhanced their ability to learn and form memories.",
+             "link": "https://www.technologyreview.com/s/612997/the-crispr-twins-had-their-brains-altered/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612997/the-crispr-twins-had-their-brains-altered/"
+             },
+             "pubDate": "Thu, 21 Feb 2019 15:20:00 GMT"
+          },
+          {
+             "title": "The first privately funded trip to the moon is about to launch",
+             "description": "After failing to claim the Lunar X Prize (which, to be fair, everyone did), the Israeli firm SpaceIL could have a rover on lunar soil in a little over a month.",
+             "link": "https://www.technologyreview.com/s/612987/the-first-privately-funded-trip-to-the-moon-is-about-to-launch/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612987/the-first-privately-funded-trip-to-the-moon-is-about-to-launch/"
+             },
+             "pubDate": "Wed, 20 Feb 2019 18:45:00 GMT"
+          },
+          {
+             "title": "The technology behind OpenAI’s fiction-writing, fake-news-spewing AI, explained",
+             "description": "The language model can write like a human, but it doesn’t have a clue what it’s saying.",
+             "link": "https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/"
+             },
+             "pubDate": "Sat, 16 Feb 2019 13:00:00 GMT"
+          },
+          {
+             "title": "AI is reinventing the way we invent",
+             "description": "The biggest impact of artificial intelligence will be to help humans make discoveries we couldn’t make on our own.",
+             "link": "https://www.technologyreview.com/s/612898/ai-is-reinventing-the-way-we-invent/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612898/ai-is-reinventing-the-way-we-invent/"
+             },
+             "pubDate": "Fri, 15 Feb 2019 12:00:00 GMT"
+          },
+          {
+             "title": "Never mind killer robots—here are six real AI dangers to watch out for in 2019",
+             "description": "Last year a string of controversies revealed a darker (and dumber) side to artificial intelligence.",
+             "link": "https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/"
+             },
+             "pubDate": "Mon, 07 Jan 2019 17:00:00 GMT"
+          },
+          {
+             "title": "The Reunion: a new science-fiction story about surveillance in China",
+             "description": "Technology is making people unhinged and violent. Can an algorithm stop them?",
+             "link": "https://www.technologyreview.com/s/612590/the-reunion-a-new-science-fiction-story-about-surveillance-in-china/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612590/the-reunion-a-new-science-fiction-story-about-surveillance-in-china/"
+             },
+             "pubDate": "Sun, 16 Dec 2018 12:00:00 GMT"
+          },
+          {
+             "title": "Seven New Year’s resolutions for Big Tech in 2019",
+             "description": "2018 was a no good, very bad year for Silicon Valley. Here’s some of the things tech giants should commit to do next year to avoid a repeat performance.",
+             "link": "https://www.technologyreview.com/s/612685/seven-new-years-resolutions-for-big-tech-in-2019/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612685/seven-new-years-resolutions-for-big-tech-in-2019/"
+             },
+             "pubDate": "Mon, 31 Dec 2018 11:59:00 GMT"
+          },
+          {
+             "title": "The day I tasted climate change",
+             "description": "Every one of us will have a moment when global warming gets personal.",
+             "link": "https://www.technologyreview.com/s/612658/the-day-i-tasted-climate-change/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612658/the-day-i-tasted-climate-change/"
+             },
+             "pubDate": "Fri, 21 Dec 2018 12:00:00 GMT"
+          },
+          {
+             "title": "All the reasons 2018 was a breakout year for DNA data",
+             "description": "Gene information on millions of people is revolutionizing how we predict disease, catch criminals, and find new drugs.",
+             "link": "https://www.technologyreview.com/s/612688/all-the-reasons-2018-was-a-breakout-year-for-dna-data/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612688/all-the-reasons-2018-was-a-breakout-year-for-dna-data/"
+             },
+             "pubDate": "Sat, 29 Dec 2018 11:59:00 GMT"
+          },
+          {
+             "title": "How Google took on China—and lost",
+             "description": "It used to be that while Google wanted China, China really needed Google. Not any more.",
+             "link": "https://www.technologyreview.com/s/612601/how-google-took-on-china-and-lost/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612601/how-google-took-on-china-and-lost/"
+             },
+             "pubDate": "Wed, 19 Dec 2018 05:00:00 GMT"
+          },
+          {
+             "title": "The biggest technology failures of 2018",
+             "description": "From gene-edited babies to guaranteed-fatal brain uploads, it was a bumper year for technology misfires and misuses.",
+             "link": "https://www.technologyreview.com/s/612646/the-biggest-technology-failures-of-2018/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612646/the-biggest-technology-failures-of-2018/"
+             },
+             "pubDate": "Thu, 27 Dec 2018 12:00:00 GMT"
+          },
+          {
+             "title": "Cryptocurrencies crashed in 2018. Now they’re right where they should be.",
+             "description": "A year ago, Bitcoin and its brethren were headed to the moon. These days they’re much more grounded.",
+             "link": "https://www.technologyreview.com/s/612659/cryptocurrencies-crashed-in-2018-now-theyre-right-where-they-should-be/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612659/cryptocurrencies-crashed-in-2018-now-theyre-right-where-they-should-be/"
+             },
+             "pubDate": "Wed, 26 Dec 2018 14:00:00 GMT"
+          },
+          {
+             "title": "The biggest technology failures of 2018",
+             "description": "From gene-edited babies to guaranteed-fatal brain uploads, it was a bumper year for technology misfires and misuses.",
+             "link": "https://www.technologyreview.com/s/612646/the-biggest-technology-failures-of-2018/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612646/the-biggest-technology-failures-of-2018/"
+             },
+             "pubDate": "Thu, 27 Dec 2018 12:00:00 GMT"
+          },
+          {
+             "title": "Science vs. the state: a family saga at the Caltech of China",
+             "description": "Three generations of personal and political history show the tensions between the Communist Party’s need for knowledge and its need for ideological control.",
+             "link": "https://www.technologyreview.com/s/612599/science-vs-the-state-a-family-saga-at-the-caltech-of-china/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612599/science-vs-the-state-a-family-saga-at-the-caltech-of-china/"
+             },
+             "pubDate": "Wed, 19 Dec 2018 12:00:00 GMT"
+          },
+          {
+             "title": "China vs. the US: Who wins and who loses",
+             "description": "An interview with Yasheng Huang, MIT professor and expert on entrepreneurship in China.",
+             "link": "https://www.technologyreview.com/s/612603/china-vs-the-us-who-wins-and-who-loses/",
+             "guid": {
+                "@isPermaLink": "true",
+                "#text": "https://www.technologyreview.com/s/612603/china-vs-the-us-who-wins-and-who-loses/"
+             },
+             "pubDate": "Wed, 19 Dec 2018 12:00:00 GMT"
+          }
+       ]
+    }
+ }

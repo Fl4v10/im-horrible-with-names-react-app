@@ -1,0 +1,107 @@
+{
+    "channel": {
+       "title": "UOL Tecnologia",
+       "link": "http://tecnologia.uol.com.br/",
+       "description": "Últimas Notícias",
+       "language": [],
+       "category": "Notícias",
+       "copyright": [],
+       "image": {
+          "title": "UOL Tecnologia - Últimas Notícias",
+          "url": "http://rss.i.uol.com.br/uol_rss.gif",
+          "link": "http://tecnologia.uol.com.br/ultimas/"
+       },
+       "item": [
+          {
+             "title": "Sony encerra totalmente produção do PlayStation Vita depois de 8 anos",
+             "link": "https://adrenaline.uol.com.br/2019/03/04/58250/sony-encerra-totalmente-producao-do-playstation-vita-depois-de-8-anos/",
+             "description": "<img src='https://adrenaline.uol.com.br/admin/files/sysmidia/W7CA4xa2cdC9y1Ya2470CY77W1C6Z1/ps_vita_item.jpg' align=\"left\" />   A Sony anunciou que está oficialmente encerrando a fabricação do seu console portátil...",
+             "pubDate": "Seg, 04 Mar 2019 20:32:00 -0300"
+          },
+          {
+             "title": "Meses depois, Gigabyte finalmente lança sua versão da Radeon RX 590",
+             "link": "https://adrenaline.uol.com.br/2019/03/04/58251/meses-depois-gigabyte-finalmente-lanca-sua-versao-da-radeon-rx-590/",
+             "description": "<img src='https://adrenaline.uol.com.br/admin/files/sysmidia/c67y6A97dc5wCcxaY7x22D223dYCCb/rx_590_gigabyte_gaming_item.png' align=\"left\" />   Já faz cerca de 4 meses desde o lançamento oficial da Radeon RX 590, placa de vídeo...",
+             "pubDate": "Seg, 04 Mar 2019 20:17:00 -0300"
+          },
+          {
+             "title": "Aplicativos da AppStore estão sob investigação por mandar dados ao Facebook",
+             "link": "https://olhardigital.com.br/noticia/aplicativos-da-appstore-estao-sob-investigacao-por-mandar-dados-ao-facebook/83368",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/9b/2019/03/04/facebook-1551741620356_v2_142x100.jpg' align=\"left\" />  Entre os dados compartilhados estavam informações sobre peso, ciclo menstrual e até mesmo a frequência de atividade sexual",
+             "pubDate": "Seg, 04 Mar 2019 20:00:00 -0300"
+          },
+          {
+             "title": "Realme 3 tem notch minúsculo, câmera com AI e preço baixo",
+             "link": "https://tecnoblog.net/281122/realme-3-notch-camera-ai/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/c0/2019/03/04/realme-3-tem-notch-minusculo-camera-com-ai-e-preco-baixo-1551743423754_v2_142x100.jpg' align=\"left\" />  Smartphone consegue ter corpo elegante, câmera inteligente e custar menos que R$ 700",
+             "pubDate": "Seg, 04 Mar 2019 19:52:58 -0300"
+          },
+          {
+             "title": "Riot Games contrata diretora de diversidade para resolver problemas com sexismo",
+             "link": "https://canaltech.com.br/games/riot-games-contrata-diretora-de-diversidade-para-resolver-problemas-com-sexismo-134031/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/c8/2019/03/04/riot-games-1551739829706_v2_142x100.jpg' align=\"left\" />  A Riot Games, desenvolvedora de League of Legends, contratou uma diretora de diversidade para ajudar a corrigir problemas em torno da sua cultura sexista e tóxica no local de trabalho, assim como foi relatada pelo Kotaku em agosto do ano passado",
+             "pubDate": "Seg, 04 Mar 2019 19:00:00 -0300"
+          },
+          {
+             "title": "CD e vinil conseguiram mais receita do que iTunes",
+             "link": "https://olhardigital.com.br/noticia/cd-e-vinil-conseguiram-mais-receita-do-que-itunes/83373",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/d3/2019/03/04/vinil-1551741620527_v2_142x100.jpg' align=\"left\" />  Reportagem da CNet aponta que os lucros dos meios físicos ultrapassam os dos downloads, mas mostra que as plataformas de streaming ainda dominam o mercado",
+             "pubDate": "Seg, 04 Mar 2019 19:00:00 -0300"
+          },
+          {
+             "title": "Cápsula Crew Dragon, da SpaceX, se conecta à Estação Espacial Internacional sem precisar de braço robótico",
+             "link": "https://gizmodo.uol.com.br/spacex-crew-dragon-estacao-espacial-internacional/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/ad/2019/03/04/cape-canaveral-fl---february-28-in-this-nasa-handout-a-spacex-falcon-9-rocket-with-the-companys-crew-dragon-spacecraft-onboard-is-seen-as-it-is-rolled-out-of-the-horizontal-integration-facility-1551736709634_v2_142x100.jpg' align=\"left\" />  Um dia depois de seu lançamento no topo de um foguete Falcon 9, a espaçonave Crew Dragon, da SpaceX, atracou com sucesso na Estação Espacial Internacional, informou a CNN no domingo. Ela tem a capacidade de levar passageiros à Estação, mas ainda estava sem tripulação nesse teste. [foo_related_posts] O procedimento de acoplamento ocorreu sem erros. [?]",
+             "pubDate": "Seg, 04 Mar 2019 18:57:16 -0300"
+          },
+          {
+             "title": "Lyft se torna primeira startup de caronas a entrar no mercado de ações",
+             "link": "https://canaltech.com.br/bolsa-de-valores/lyft-se-torna-primeira-startup-de-caronas-a-entrar-no-mercado-de-acoes-134049/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/1f/2019/03/04/lyft-1551739829862_v2_142x100.jpg' align=\"left\" />  Ao entrar com todos os documentos necessários para se tornar uma empresa de capital aberto na última sexta-feira (1), a Lyft se tornou a primeira startup de mobilidade urbana a tornar suas ações públicas na bolsa de valores, e pode servir de exemplo para as rivais",
+             "pubDate": "Seg, 04 Mar 2019 18:30:00 -0300"
+          },
+          {
+             "title": "Windows Lite pode ser o sistema da Microsoft para notebooks com tela dupla",
+             "link": "https://tecnoblog.net/281117/windows-lite-microsoft-tela-dupla/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/bd/2019/03/04/windows-lite-pode-ser-o-sistema-da-microsoft-para-notebooks-com-tela-dupla-1551734422435_v2_142x100.jpg' align=\"left\" />  Microsoft prepara versão Lite do Windows 10 para concorrentes do Chromebook e para dispositivos com tela dupla",
+             "pubDate": "Seg, 04 Mar 2019 18:03:33 -0300"
+          },
+          {
+             "title": "Huawei estaria planejando processar o governo americano depois de banimento",
+             "link": "https://olhardigital.com.br/noticia/huawei-estaria-planejando-processar-o-governo-americano-depois-de-banimento/83372",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/f5/2019/03/04/huawei-1551734420127_v2_142x100.jpg' align=\"left\" />  Anúncio deve ser feito nesta quinta-feira em Shenzhen, na China",
+             "pubDate": "Seg, 04 Mar 2019 18:00:00 -0300"
+          },
+          {
+             "title": "Estamos a um passo de começar a minerar a Lua e asteroides do Sistema Solar",
+             "link": "https://canaltech.com.br/espaco/estamos-a-um-passo-de-comecar-a-minerar-a-lua-e-asteroides-do-sistema-solar-134063/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/4a/2019/03/04/mineracao-da-lua-1551734434870_v2_142x100.jpg' align=\"left\" />  Ainda que o assunto seja controverso, é fato que, em um futuro próximo, a humanidade começará a minerar a Lua e asteroides, de olho em seus valiosos recursos naturais. A europeia ESA, por exemplo, pretende começar a minerar o regolito lunar em 2025",
+             "pubDate": "Seg, 04 Mar 2019 18:00:00 -0300"
+          },
+          {
+             "title": "CFO da Huawei está processando o Canadá por violação de direitos civis",
+             "link": "https://canaltech.com.br/juridico/cfo-da-huawei-esta-processando-o-canada-por-violacao-de-direitos-civis-134065/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/a7/2019/03/04/meng-wanzhou-1551734434816_v2_142x100.jpg' align=\"left\" />  Presa desde dezembro no país e em processo de extradição para os Estados Unidos, a CFO da Huawei está processando o governo do Canadá por violação de direitos civis, afirmando que sua prisão foi arbitrária e não seguiu os procedimentos legais corretos",
+             "pubDate": "Seg, 04 Mar 2019 17:30:00 -0300"
+          },
+          {
+             "title": "Spotify registra 1 milhão de usuários únicos na Índia em menos de uma semana, diz Billboard",
+             "link": "https://noticias.uol.com.br/tecnologia/noticias/reuters/2019/03/04/spotify-registra-1-milhao-de-usuarios-unicos-na-india-em-menos-de-uma-semana-diz-billboard.htm",
+             "description": "(Reuters) - O Spotify Technology SA, o serviço de streaming de música pago mais popular do mundo, registrou mais de 1 milhão de usuários únicos na Índia em seus níveis gratuitos e premium desde o lançamento há menos de uma semana, informou a Billboard nesta segunda-feira.",
+             "pubDate": "Seg, 04 Mar 2019 17:23:47 -0300"
+          },
+          {
+             "title": "Microsoft Excel permite importar tabelas por meio de fotos",
+             "link": "https://tecnoblog.net/281091/microsoft-excel-importar-tabelas-fotos/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/65/2019/03/04/microsoft-excel-permite-importar-tabelas-por-meio-de-fotos-1551730823022_v2_142x100.jpg' align=\"left\" />  O novo recurso do Excel permite transformar tabelas de livros impressos em planilhas editáveis",
+             "pubDate": "Seg, 04 Mar 2019 17:16:29 -0300"
+          },
+          {
+             "title": "USB4 é anunciado oficialmente, com suporte a Thunderbolt e velocidades de até 40 Gbps",
+             "link": "https://adrenaline.uol.com.br/2019/03/04/58249/usb4-e-anunciado-oficialmente-com-suporte-a-thunderbolt-e-velocidades-de-ate-40-gbps/",
+             "description": "<img src='https://conteudo.imguol.com.br/c/parceiros/8d/2019/03/04/usb4-e-anunciado-oficialmente-com-suporte-a-thunderbolt-e-velocidades-de-ate-40-gbps-1551732620504_v2_142x100.jpg' align=\"left\" />   A especificação USB4 agora é oficial. O USB Promoter Group anunciou a nova geração...",
+             "pubDate": "Seg, 04 Mar 2019 17:01:00 -0300"
+          }
+       ]
+    }
+ }
